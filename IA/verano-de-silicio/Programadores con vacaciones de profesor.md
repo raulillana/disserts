@@ -290,4 +290,4 @@ Y, ya puestos, de cuándo nos toca el verano.
 
 ---
 
-*Escrito con ayuda de herramientas de IA (ChatGPT y Claude). La búsqueda de datos y los gráficos los preparó un agente de IA, y yo los revisé. Las ideas, las decisiones y la firma son mías. Los datos y los gráficos se pueden reproducir con los ficheros de la carpeta [`datos/`](datos/).*
+*Escrito con ayuda de herramientas de IA (ChatGPT y Claude). La búsqueda de datos y los gráficos los preparó un agente de IA, y yo los revisé. Las ideas, las decisiones y la firma son mías. Los datos y los gráficos se pueden reproducir con los ficheros de la carpeta [`datos/`](datos/FUENTES.md).*
