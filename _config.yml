@@ -1,0 +1,51 @@
+# GitHub Pages (Jekyll). El repo se lee igual en GitHub; esto solo afecta a la web.
+title: Disertaciones
+description: Ensayos con tesis claras, datos comprobables y honestidad sobre sus límites.
+author: Raul Illana
+lang: es
+url: "https://raulillana.github.io"
+baseurl: "/disserts"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # Cada disertación vive en <categoría>/<nombre-en-clave>/ y se sirve en esa URL.
+  - scope:
+      path: "IA/verano-de-silicio/Programadores con vacaciones de profesor.md"
+    values:
+      permalink: /IA/verano-de-silicio/
+      lectura: true
+  - scope:
+      path: "IA/verano-de-silicio/datos/FUENTES.md"
+    values:
+      permalink: /IA/verano-de-silicio/datos/fuentes/
+
+exclude:
+  - "**/__pycache__"
+  - Gemfile
+  - Gemfile.lock

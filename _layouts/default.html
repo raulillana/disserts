@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'es' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body{% if page.lectura %} class="lectura"{% endif %}>
+  <header class="sitio">
+    <a class="marca" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    {% unless page.url == '/' %}<a class="volver" href="{{ '/' | relative_url }}">← Índice</a>{% endunless %}
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer class="sitio">
+    <p>{{ site.author }} · Textos y figuras: <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a> · <a href="https://github.com/raulillana/disserts">Código y datos en GitHub</a></p>
+  </footer>
+</body>
+</html>
