@@ -1,0 +1,29 @@
+trial,country,period,organisations_start,employees,metric,value,unit,notes,source_id
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,companies continuing after trial,56,companies,92% of 61,S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,companies confirming permanent,18,companies,,S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,revenue change start->end of trial,1.4,% (size-weighted; n=23),"report: 'stayed broadly the same'",S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,revenue change comparison period->trial,34.5,% (size-weighted; n=24),"headline rounds to 35%",S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,resignations per 100 employees,2.0 -> 0.8,ratio,-57%; not statistically significant (small n),S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,sick+personal days per employee per month,2.0 -> 0.7,days,-65%; not statistically significant (small n),S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,employees with reduced burnout,71,% of respondents,,S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,employees less stressed,39,% of respondents,,S6
+UK pilot 2022,UK,2022-06/2022-12,61,~2900,average weekly hours (employee survey),38 -> 34,hours/week,target was 32,S6
+UK pilot 1-year follow-up,UK,end-2023,61,,companies still operating 4DW,54,companies,>=89% of 61,S7
+UK pilot 1-year follow-up,UK,end-2023,61,,companies with permanent 4DW,31,companies,>=51% of 61,S7
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,companies answering continuation question,27,companies,18 definitely continue; 7 planning; 1 leaning; 0 against,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,revenue change start->end of trial,8.14,% (size-weighted; n=16),,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,revenue change comparison period->trial,37.55,% (size-weighted; n=20),,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,resignations per 100 employees,1.76 -> 1.70,ratio,not statistically significant,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,sick+personal days per employee per month,0.56 -> 0.39,days,not statistically significant,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,average weekly hours,40.83 -> 34.83,hours/week,,S8
+US/Ireland pilot 2022,US+Ireland (+others),2022 (6 months),33,903,employees wanting to continue,96.9,% (444 of respondents),,S8
+Portugal pilot 2023,Portugal,2023-06/2023-12 (6 months),41,~1000 (press pre-trial; unverified),weekly hours reported by firms,39.3 -> 34,hours/week,-13.7% (interim report Dec 2023),S9
+Portugal pilot 2023,Portugal,2023-06/2023-12 (6 months),41,,weekly hours reported by workers,41.1 -> 36.5,hours/week,-11.3% (interim report Dec 2023),S9
+Portugal pilot 2023,Portugal,2023-06/2023-12 (6 months),41,,work exhaustion,-19,%,final report Jun 2024 (via press),S10
+Portugal pilot 2023,Portugal,2023-06/2023-12 (6 months),41,,workers wanting to continue,93,%,final report Jun 2024 (via press),S10
+Portugal pilot 2023,Portugal,2023-06/2023-12 (6 months),41,,firms continuing / positive,>80,%,"RTP: >80% kept model; Renascenca: 80% rated positive (financially neutral) - wording differs, primary PDF not retrieved",S10
+Germany pilot 2024,Germany,2024-02/2024-08 (6 months),45,,organisations completing/near completion,41,organisations,2 dropped out,S11
+Germany pilot 2024,Germany,2024-02/2024-08 (6 months),45,,organisations wanting to continue,>70,%,extend test or implement fully,S11
+Germany pilot 2024,Germany,2024-02/2024-08 (6 months),45,,extra sleep vs control group,38,minutes/week,smartwatch measured,S11
+Germany pilot 2024,Germany,2024-02/2024-08 (6 months),45,,turnover and profit,slight rise; not significant vs prior year,,,S11
+Germany pilot 2024,Germany,2024-02/2024-08 (6 months),45,,monthly sick days,slight fall; not significant vs 2023,,,S11

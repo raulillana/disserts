@@ -27,3 +27,6 @@ code{background:var(--code);padding:.1em .35em;border-radius:4px;font-size:.88em
 ol,ul{padding-left:1.4rem}
 body.lectura main > p:first-of-type em{font-size:1.15rem;color:var(--mut)}
 @media (max-width:600px){body{font-size:17px}h1{font-size:1.8rem}}
+header.sitio nav{display:flex;gap:1rem;align-items:center}
+.idioma{font-weight:650;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:.1rem .6rem;color:var(--fg)}
+.idioma:hover{border-color:var(--acc);color:var(--acc)}
