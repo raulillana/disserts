@@ -34,4 +34,4 @@ Estas disertaciones se escriben con ayuda de herramientas de IA (como ChatGPT y 
 
 ---
 
-*Raúl Illana*
+*Raul Illana*
