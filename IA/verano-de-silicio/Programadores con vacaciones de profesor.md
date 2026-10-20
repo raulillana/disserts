@@ -2,7 +2,7 @@
 
 *Por qué la inteligencia artificial nos obliga a decidir quién se queda con el tiempo que ahorra.*
 
-**Raúl Illana** · Octubre de 2026 · Lectura: 18 minutos
+**Raul Illana** · Octubre de 2026 · Lectura: 18 minutos
 
 ---
 
@@ -243,7 +243,7 @@ Si para conseguirlo hay que empezar a llamar profesores a los programadores, alu
 
 Y, ya puestos, de cuándo nos toca el verano.
 
-*Raúl Illana, profesor de agentes que no conocen el concepto de vacaciones.*
+*Raul Illana, profesor de agentes que no conocen el concepto de vacaciones.*
 
 ---
 
