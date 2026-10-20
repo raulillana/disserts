@@ -179,7 +179,7 @@ Ese andamiaje cuesta, y mucho: escribir las pruebas, las reglas y los revisores 
 
 Con todo eso se puede separar algo que solemos mezclar: la continuidad del servicio y la continuidad de la persona. Un sistema puede funcionar permanentemente sin exigir que la misma persona permanezca permanentemente trabajando. Los hospitales y los aeropuertos llevan décadas haciéndolo con turnos. Lo nuevo es que parte de esos turnos los puede cubrir software, siempre que sepamos comprobar lo que hace.
 
-## 7. Lo que he aprendido en Acrònims
+## 7. Lo que he aprendido con [Acrònims.cat](https://acronims.cat)
 
 Esto lo escribo desde dentro. En Acrònims, un pequeño grupo de proyectos que estoy montando, buena parte del trabajo técnico lo hacen agentes de IA coordinados por un agente central que me rinde cuentas.
 
