@@ -18,13 +18,13 @@ Each essay tries to do three things:
 
 ## Index
 
-Read them on the web at [raulillana.github.io/disserts](https://raulillana.github.io/disserts/en/), or right here on GitHub (the "markdown" link).
+Read them on the web at [raulillana.com/disserts](https://raulillana.com/disserts/en/), or right here on GitHub (the "markdown" link).
 
 ### AI: essays on artificial intelligence
 
 | ID | Title | Codename | Date | What it is about |
 |---|---|---|---|---|
-| 0 | [Programmers Deserve Teachers' Holidays](https://raulillana.github.io/disserts/IA/0-silicon-summer/) · [markdown](<IA/0-silicon-summer/Programmers Deserve Teachers' Holidays.md>) | `silicon-summer` | October 2026 | With AI agents, programmers teach more than they write. If machines save time, who keeps it? A century of data on productivity and working hours, the review paradox, and a proposal: work in cycles, like the school year |
+| 0 | [Programmers Deserve Teachers' Holidays](https://raulillana.com/disserts/IA/0-silicon-summer/) · [markdown](<IA/0-silicon-summer/Programmers Deserve Teachers' Holidays.md>) | `silicon-summer` | October 2026 | With AI agents, programmers teach more than they write. If machines save time, who keeps it? A century of data on productivity and working hours, the review paradox, and a proposal: work in cycles, like the school year |
 
 ## Licence
 
