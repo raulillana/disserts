@@ -16,11 +16,13 @@ Cada disertación intenta cumplir tres cosas:
 
 ## Índice
 
+Se pueden leer en la web, en [raulillana.github.io/disserts](https://raulillana.github.io/disserts/), o aquí mismo en GitHub (enlace «markdown»).
+
 ### IA: disertaciones sobre la inteligencia artificial
 
 | Título | Nombre en clave | Fecha | De qué va |
 |---|---|---|---|
-| [Programadores con vacaciones de profesor](IA/verano-de-silicio/Programadores%20con%20vacaciones%20de%20profesor.md) | `verano-de-silicio` | Octubre de 2026 | Con agentes de IA, el programador enseña más de lo que escribe. Si las máquinas ahorran tiempo, ¿quién se queda con él? Un siglo de datos sobre productividad y horas, la paradoja de la revisión y una propuesta: trabajar por ciclos, como el curso escolar |
+| [Programadores con vacaciones de profesor](https://raulillana.github.io/disserts/IA/verano-de-silicio/) · [markdown](<IA/verano-de-silicio/Programadores con vacaciones de profesor.md>) | `verano-de-silicio` | Octubre de 2026 | Con agentes de IA, el programador enseña más de lo que escribe. Si las máquinas ahorran tiempo, ¿quién se queda con él? Un siglo de datos sobre productividad y horas, la paradoja de la revisión y una propuesta: trabajar por ciclos, como el curso escolar |
 
 ## Licencia
 
