@@ -1,5 +1,5 @@
 # GitHub Pages (Jekyll). El repo se lee igual en GitHub; esto solo afecta a la web.
-title: Disertaciones
+title: Disertaciones · Disserts
 description: Ensayos con tesis claras, datos comprobables y honestidad sobre sus límites.
 author: Raul Illana
 lang: es
@@ -34,16 +34,52 @@ defaults:
       path: ""
     values:
       layout: default
-  # Cada disertación vive en <categoría>/<nombre-en-clave>/ y se sirve en esa URL.
+      lang: es
+  # Portada y portadas por idioma. «ref» une las traducciones (botón ES/EN).
   - scope:
-      path: "IA/verano-de-silicio/Programadores con vacaciones de profesor.md"
+      path: "README.md"
     values:
-      permalink: /IA/verano-de-silicio/
+      permalink: /
+      ref: home
+  - scope:
+      path: "README.es.md"
+    values:
+      permalink: /es/
+      ref: index
+      lang: es
+  - scope:
+      path: "README.en.md"
+    values:
+      permalink: /en/
+      ref: index
+      lang: en
+  # Disertación 0. Una carpeta por idioma: <categoría>/<ID>-<nombre-en-clave>/
+  - scope:
+      path: "IA/0-verano-de-silicio/Programadores con vacaciones de profesor.md"
+    values:
+      permalink: /IA/0-verano-de-silicio/
+      ref: IA-0
+      lang: es
       lectura: true
   - scope:
-      path: "IA/verano-de-silicio/datos/FUENTES.md"
+      path: "IA/0-verano-de-silicio/datos/FUENTES.md"
     values:
-      permalink: /IA/verano-de-silicio/datos/fuentes/
+      permalink: /IA/0-verano-de-silicio/datos/fuentes/
+      ref: IA-0-datos
+      lang: es
+  - scope:
+      path: "IA/0-silicon-summer/Programmers Deserve Teachers' Holidays.md"
+    values:
+      permalink: /IA/0-silicon-summer/
+      ref: IA-0
+      lang: en
+      lectura: true
+  - scope:
+      path: "IA/0-silicon-summer/data/SOURCES.md"
+    values:
+      permalink: /IA/0-silicon-summer/data/sources/
+      ref: IA-0-datos
+      lang: en
 
 exclude:
   - "**/__pycache__"
